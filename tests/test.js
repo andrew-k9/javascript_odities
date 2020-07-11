@@ -1,5 +1,5 @@
 const {letters} = require('../lib/castingValues.js');
-const {parser} = require('../lib/stringToCasting.js');
+const {parser} = require('../lib/obfuscate.js');
 
 // Makes sure all letters evaluate properly
 for(key in letters){
