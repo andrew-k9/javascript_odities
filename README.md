@@ -52,6 +52,6 @@ In this directory, put
 at the top of your file. Then call it using a string formatted like so `'"whatever to change"'`
 
 ```javascript
-  const hello world = parser('"hello world"');
+  const hello_world = parser('"hello world"');
   ```
 
